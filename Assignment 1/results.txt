@@ -1,0 +1,74 @@
+Line Tested: 0
+Original Arithmetic before mutation: a= 3*4 The operator * will be replaced
+The mutant operator being inserted: +
+The resulting arithmetic: a= 3+4
+
+
+Line Tested: 0
+Original Arithmetic before mutation: a= 3*4 The operator * will be replaced
+The mutant operator being inserted: -
+The resulting arithmetic: a= 3-4
+
+
+Line Tested: 0
+Original Arithmetic before mutation: a= 3*4 The operator * will be replaced
+The mutant operator being inserted: /
+The resulting arithmetic: a= 3/4
+
+
+Line Tested: 1
+Original Arithmetic before mutation: b= 5+5 The operator + will be replaced
+The mutant operator being inserted: -
+The resulting arithmetic: b= 5-5
+
+
+Line Tested: 1
+Original Arithmetic before mutation: b= 5+5 The operator + will be replaced
+The mutant operator being inserted: *
+The resulting arithmetic: b= 5*5
+
+
+Line Tested: 1
+Original Arithmetic before mutation: b= 5+5 The operator + will be replaced
+The mutant operator being inserted: /
+The resulting arithmetic: b= 5/5
+
+
+Line Tested: 2
+Original Arithmetic before mutation: c= 12/4 The operator / will be replaced
+The mutant operator being inserted: +
+The resulting arithmetic: c= 12+4
+
+
+Line Tested: 2
+Original Arithmetic before mutation: c= 12/4 The operator / will be replaced
+The mutant operator being inserted: -
+The resulting arithmetic: c= 12-4
+
+
+Line Tested: 2
+Original Arithmetic before mutation: c= 12/4 The operator / will be replaced
+The mutant operator being inserted: *
+The resulting arithmetic: c= 12*4
+
+
+Line Tested: 3
+Original Arithmetic before mutation: d= 39-5 The operator - will be replaced
+The mutant operator being inserted: +
+The resulting arithmetic: d= 39+5
+
+
+Line Tested: 3
+Original Arithmetic before mutation: d= 39-5 The operator - will be replaced
+The mutant operator being inserted: *
+The resulting arithmetic: d= 39*5
+
+
+Line Tested: 3
+Original Arithmetic before mutation: d= 39-5 The operator - will be replaced
+The mutant operator being inserted: /
+The resulting arithmetic: d= 39/5
+
+
+The following line displays the total number of times each mutant type were generated: 
+{'+': 3, '-': 3, '*': 3, '/': 3}

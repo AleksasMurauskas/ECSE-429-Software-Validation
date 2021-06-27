@@ -1,0 +1,381 @@
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: + on *
+New:     volume = (1/3 + pi * r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: - on *
+New:     volume = (1/3 - pi * r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: / on *
+New:     volume = (1/3 / pi * r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: + on *
+New:     volume = (1/3 * pi + r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: - on *
+New:     volume = (1/3 * pi - r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: / on *
+New:     volume = (1/3 * pi / r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: + on *
+New:     volume = (1/3 * pi * r+r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: - on *
+New:     volume = (1/3 * pi * r-r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: / on *
+New:     volume = (1/3 * pi * r/r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: + on *
+New:     volume = (1/3 * pi * r*r+ h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: - on *
+New:     volume = (1/3 * pi * r*r- h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: / on *
+New:     volume = (1/3 * pi * r*r/ h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: + on /
+New:     volume = (1+3 * pi * r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: - on /
+New:     volume = (1-3 * pi * r*r* h)
+
+Line: 5
+Original:     volume = (1/3 * pi * r*r* h)
+Inserted: * on /
+New:     volume = (1*3 * pi * r*r* h)
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on +
+New:     surface_area = (pi * r * (r - sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: * on +
+New:     surface_area = (pi * r * (r * sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on +
+New:     surface_area = (pi * r * (r / sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on +
+New:     surface_area = (pi * r * (r + sqrt(h*h - r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: * on +
+New:     surface_area = (pi * r * (r + sqrt(h*h * r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on +
+New:     surface_area = (pi * r * (r + sqrt(h*h / r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: + on *
+New:     surface_area = (pi + r * (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on *
+New:     surface_area = (pi - r * (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on *
+New:     surface_area = (pi / r * (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: + on *
+New:     surface_area = (pi * r + (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on *
+New:     surface_area = (pi * r - (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on *
+New:     surface_area = (pi * r / (r + sqrt(h*h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: + on *
+New:     surface_area = (pi * r * (r + sqrt(h+h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on *
+New:     surface_area = (pi * r * (r + sqrt(h-h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on *
+New:     surface_area = (pi * r * (r + sqrt(h/h + r*r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: + on *
+New:     surface_area = (pi * r * (r + sqrt(h*h + r+r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: - on *
+New:     surface_area = (pi * r * (r + sqrt(h*h + r-r)))
+
+Line: 6
+Original:     surface_area = (pi * r * (r + sqrt(h*h + r*r)))
+Inserted: / on *
+New:     surface_area = (pi * r * (r + sqrt(h*h + r/r)))
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: + on *
+New:     volume = (s+s*s)
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: - on *
+New:     volume = (s-s*s)
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: / on *
+New:     volume = (s/s*s)
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: + on *
+New:     volume = (s*s+s)
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: - on *
+New:     volume = (s*s-s)
+
+Line: 10
+Original:     volume = (s*s*s)
+Inserted: / on *
+New:     volume = (s*s/s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: + on *
+New:     surface_area = (6+ s*s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: - on *
+New:     surface_area = (6- s*s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: / on *
+New:     surface_area = (6/ s*s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: + on *
+New:     surface_area = (6* s+s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: - on *
+New:     surface_area = (6* s-s)
+
+Line: 11
+Original:     surface_area = (6* s*s)
+Inserted: / on *
+New:     surface_area = (6* s/s)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: + on *
+New:     volume = (pi + r*r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: - on *
+New:     volume = (pi - r*r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: / on *
+New:     volume = (pi / r*r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: + on *
+New:     volume = (pi * r+r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: - on *
+New:     volume = (pi * r-r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: / on *
+New:     volume = (pi * r/r*  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: + on *
+New:     volume = (pi * r*r+  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: - on *
+New:     volume = (pi * r*r-  h)
+
+Line: 15
+Original:     volume = (pi * r*r*  h)
+Inserted: / on *
+New:     volume = (pi * r*r/  h)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on +
+New:     surface_area = (2 * pi * r * h - 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: * on +
+New:     surface_area = (2 * pi * r * h * 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on +
+New:     surface_area = (2 * pi * r * h / 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 + pi * r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 - pi * r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 / pi * r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 * pi + r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 * pi - r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 * pi / r * h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 * pi * r + h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 * pi * r - h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 * pi * r / h + 2 * pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 * pi * r * h + 2 + pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 * pi * r * h + 2 - pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 * pi * r * h + 2 / pi * r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 * pi * r * h + 2 * pi + r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 * pi * r * h + 2 * pi - r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 * pi * r * h + 2 * pi / r*r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: + on *
+New:     surface_area = (2 * pi * r * h + 2 * pi * r+r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: - on *
+New:     surface_area = (2 * pi * r * h + 2 * pi * r-r)
+
+Line: 16
+Original:     surface_area = (2 * pi * r * h + 2 * pi * r*r)
+Inserted: / on *
+New:     surface_area = (2 * pi * r * h + 2 * pi * r/r)
+
+
+ Number of each created: 
++: 22
+-: 25
+*: 4
+/: 24
